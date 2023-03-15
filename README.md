@@ -7,8 +7,8 @@
 </p>
 
 <p align="left">
-  Cursando o Programa starter developer web full stack na <a href="https://growdev.com.br" alt="Growdev">Growdev.</a>
-  Cursando Engenharia de Software pela Faculdade <a href="https://www.unicesumar.edu.br/home/"
+  Cursando o Programa starter developer web full stack na <a href="https://growdev.com.br" alt="Growdev">Growdev.</a> <br>
+  Cursando Engenharia de Software pela Faculdade <a href="https://www.unicesumar.edu.br/home/" <br>
   Cursando Inglês e Espanhol pela Escola <a href="https:https://worldopportunity.com.br/"
 </p>
 
